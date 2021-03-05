@@ -1,4 +1,4 @@
-# ICPR 2020 (Oral) CANU-MMT: A Conditional Adversarial Network for Unsupervised person Re-IDentification for MMT 
+# ICPR2020 (Oral) CANU-MMT: A Conditional Adversarial Network for Unsupervised person Re-IDentification for MMT 
 
 
 
