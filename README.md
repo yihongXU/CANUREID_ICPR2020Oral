@@ -5,7 +5,7 @@
 This is a github portal to the implementation of [CANU-ReID: A Conditional Adversarial Network for Unsupervised person Re-IDentification](https://arxiv.org/abs/1904.01308), ICPR 2020 (Oral),
 based on [Mutual Mean-Teaching: Pseudo Label Refinery for Unsupervised Domain Adaptation on Person Re-identification](https://openreview.net/forum?id=rJlnOhVYPS).
 
-#### Please visit https://gitlab.inria.fr/gdelorme/CANU_REID_MMT to the complete code implemented mainly by [Guillaume](https://github.com/ragondyn) and partially by Yihong. Due to licence issues, we currently only release code for CANU-MMT. We will update the code for SSG asap.
+#### Please visit https://gitlab.inria.fr/gdelorme/CANU_REID_MMT to the complete code implemented mainly by [Guillaume](https://github.com/ragondyn) and partially by Yihong. Due to licence issues, we currently only release code for CANU-MMT: we will update the code for SSG asap.
 
 **If you like the work, please star the project and cite:**
 
